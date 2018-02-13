@@ -2,7 +2,7 @@
 ## An Ethical Hacking Book For Beginners.
 http://h4ck3rthebook.blogspot.in
 
-<p align="center"><img src="https://github.com/thehackingsage/H4CK3Rthebook/blob/master/logos/Logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/thehackingsage/H4CK3Rthebook/blob/master/Logo.png?raw=true" /></p>
 
 Computer hacking is the practice of altering computer hardware and software to carry out a goal outside of the creator‘s original intention. People who slot in computer hacking actions and activities are often entitled as hackers.
 
