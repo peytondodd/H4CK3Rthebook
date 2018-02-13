@@ -1,5 +1,8 @@
 # H4CK3R - A Beginner's Guide
 ## An Ethical Hacking Book For Beginners.
+http://h4ck3rthebook.blogspot.in
+
+<p align="center"><img src="https://github.com/thehackingsage/H4CK3Rthebook/blob/master/logos/Logo.png?raw=true" /></p>
 
 Computer hacking is the practice of altering computer hardware and software to carry out a goal outside of the creator‘s original intention. People who slot in computer hacking actions and activities are often entitled as hackers.
 
@@ -53,10 +56,8 @@ Download This eBook & Increase Your Knowledge..
 All The Information Provided In This Book Is For Educational Purposes Only. 
 The Book Author Is No Way Responsible For Any Misuse Of The Information.
 
-Twitter : https://twitter.com/thehackingsage
+Thats All.... If You Like This eBook, Please Share This With Your Friends..
 
-Instagram : https://instagram.com/thehackingsage
+& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & Don't Forget To SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
 
-For More, Log On https://thehackingsageisback.blogspot.in
-
-Keep Visiting... Enjoy !!! :)
+Keep Visiting... Enjoy !!! :) ;)
